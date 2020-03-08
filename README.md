@@ -4,4 +4,4 @@ This is for the paper: Yahui Sun, Chenkai Ma, and Saman Halgamuge. "The node-wei
 
 This repository includes the String dataset and the C++ code for the algroithm.
 
-For any question, please contact Yahui Sun yahui.sun@anu.edu.au  I'll be very happy to help.
+For any question, please contact Yahui Sun yahuisun@outlook.com  I'll be very happy to help.
